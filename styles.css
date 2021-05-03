@@ -123,3 +123,12 @@ p {
   margin-left: 10vw;
   text-align: center;
 }
+
+.lara {
+  background-color: darkgray;
+  padding-bottom: 5vh;
+}
+
+footer {
+  margin: 5px;
+}
