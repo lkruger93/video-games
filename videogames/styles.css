@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  background-color: darkslategrey;
+}
+
+.nav-image {
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  font-family: 'Staatliches',
+  cursive;
+  color: white;
+  font-size: 2em;
+
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Staatliches',
+  cursive;
+  color: white;
+  font-size: 2em;
+
+  margin: auto;
+  text-align: center;
+  padding-top: 3vh;
+}
+
+p {
+  font-family: 'Recursive',
+  sans-serif;
+  color: white;
+}
+
+.opening-par {
+  display: flex;
+  padding-right: 1ch;
+  padding-left: 1ch;
+}
+
+.opening-image {
+  width: 30vw;
+}
+
+.ellielogo {
+  width:50vw;
+  margin-left: 5vw;
+}
+
+.ellie {
+  background-color: black;
+
+  margin-top: 15vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.lastofus-head {
+  font-family: 'Staatliches',
+  cursive;
+  color: white;
+
+  font-size: 3em;
+  margin-left: 70vw;
+}
+
+.character-description {
+  display: flex;
+  padding-right: 5vw;
+  padding-left: 5vw;
+}
+
+.character-pic {
+  width: 50vw;
+}
+
+.aloylogo {
+  width: 50vw;
+  margin-left: 25vw;
+  text-align: center;
+}
+
+.aloy {
+  background-color:skyblue;
+ 
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+
+}
+
+.horizon-head {
+  font-family: 'Ubuntu',
+  sans-serif;
+  color: white;
+
+  font-size: 3em;
+  margin-left: 70vw;
+}
+
+.elena {
+  background-color:wheat;
+
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.unchartedlogo {
+  width: 70vw;
+  margin-left: 20vw;
+  text-align: center;
+}
+
+.elena-description {
+  color: black;
+  margin-left: 2vw;
+}
+
+.laralogo {
+  width: 80vw;
+  margin-left: 10vw;
+  text-align: center;
+}
+
+.lara {
+  background-color: darkgray;
+  padding-bottom: 5vh;
+}
+
+footer {
+  margin: 5px;
+}
